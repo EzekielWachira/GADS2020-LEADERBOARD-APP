@@ -1,5 +1,7 @@
 # GADS2020-LEADERBOARD-APP
 <p>Google Africa Developer Scholarship 2020 Learning phase II practice project</p>
+<h2>Associate Android Developer Path</h2>
+<br/>
 <h2>Features<sup>2020</sup></h2>
 <p>Utilizes <strong>GADS2020</strong> api to list:</p>
  <ul>
